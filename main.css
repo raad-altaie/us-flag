@@ -1,0 +1,54 @@
+html body {
+    background-color: #16213b;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    max-height: 50px;
+    margin: 0;
+    padding: 100px;
+}
+
+.usa {
+    padding: 60px;
+    border: 6px solid rgba( 237, 210, 37, 0.978);
+    height: 325px;
+    width: 550px;
+    position: absolute;
+}
+
+.box1 {
+    height: 25px;
+}
+
+.straps {
+    height: 175px;
+    width: 550px;
+    position: absolute;
+}
+
+.usa1 {
+    background-color: rgba( 189, 24, 24, 0.978);
+}
+
+.usa2 {
+    background-color: #fff;
+}
+
+.box2 {
+    height: 175px;
+    width: 230px;
+    background-color: #1c4277;
+    position: absolute;
+}
+
+.star {
+    font-size: 20px;
+    position: absolute;
+    margin: 10px;
+    padding: 5px;
+    color: white;
+    text-shadow: 35px 0 0 #f3f3f3, 70px 0 0 #f3f3f3, 105px 0 0 #f3f3f3, 140px 0 0 #f3f3f3, 175px 0 0 #f3f3f3, 17px 14px 0 #f3f3f3, 52px 14px 0 #f3f3f3, 87px 14px 0 #f3f3f3, 122px 14px 0 #f3f3f3, 157px 14px 0 #f3f3f3, 0 28px 0 #f3f3f3, 35px 28px 0 #f3f3f3, 70px 28px 0 #f3f3f3, 105px 28px 0 #f3f3f3, 140px 28px 0 #f3f3f3, 175px 28px 0 #f3f3f3, 17px 42px 0 #f3f3f3, 52px 42px 0 #f3f3f3, 87px 42px 0 #f3f3f3, 122px 42px 0 #f3f3f3, 157px 42px 0 #f3f3f3, 0 56px 0 #f3f3f3, 35px 56px 0 #f3f3f3, 70px 56px 0 #f3f3f3, 105px 56px 0 #f3f3f3, 140px 56px 0 #f3f3f3, 175px 56px 0 #f3f3f3, 17px 70px 0 #f3f3f3, 52px 70px 0 #f3f3f3, 87px 70px 0 #f3f3f3, 122px 70px 0 #f3f3f3, 157px 70px 0 #f3f3f3, 0 84px 0 #f3f3f3, 35px 84px 0 #f3f3f3, 70px 84px 0 #f3f3f3, 105px 84px 0 #f3f3f3, 140px 84px 0 #f3f3f3, 175px 84px 0 #f3f3f3, 17px 98px 0 #f3f3f3, 52px 98px 0 #f3f3f3, 87px 98px 0 #f3f3f3, 122px 98px 0 #f3f3f3, 157px 98px 0 #f3f3f3, 0 112px 0 #f3f3f3, 35px 112px 0 #f3f3f3, 70px 112px 0 #f3f3f3, 105px 112px 0 #f3f3f3, 140px 112px 0 #f3f3f3, 175px 112px 0 #f3f3f3;
+}
