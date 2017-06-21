@@ -1,8 +1,8 @@
 # USA Flag
 
-U.S. Flag made with HTML and CSS
+<p align="center"> U.S. Flag made with HTML and CSS </p>
 
-![Alt text](https://github.com/raad-altaie/US-Flag/blob/master/US%20Flag.png?raw=true "Optional Title")
+![Alt text](https://github.com/raad-altaie/US-Flag/blob/master/US%20Flag.png?raw=true "USA Flag")
 
 
 # [Check It Out](https://raad-altaie.github.io/US-Flag/)
