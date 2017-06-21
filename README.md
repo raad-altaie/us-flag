@@ -1,5 +1,5 @@
-# US-Flag
+# USA Flag
 
 U.S. Flag made with HTML and CSS 
 
-Check it Out
+# [Check It Out](https://raad-altaie.github.io/US-Flag/)
