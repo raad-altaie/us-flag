@@ -5,4 +5,4 @@
 ![Alt text](https://github.com/raad-altaie/US-Flag/blob/master/US%20Flag.png?raw=true "USA Flag")
 
 
-# [Check It Out](https://raad-altaie.github.io/US-Flag/)
+# [check it out](https://raad-altaie.github.io/US-Flag/)
